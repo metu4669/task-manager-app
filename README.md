@@ -12,7 +12,7 @@ This project demonstrates professional front-end development, clean code practic
 
 ## Quick Links
 
-- [Live Demo](#) ← Add when deployed  
+- [Live Demo](#) ← Will be deployed soon. 
 - [GitHub Repo](https://github.com/metu4669/task-manager-app)
-- [Documentation](#) ← Optional
+- [Documentation](#)
 
